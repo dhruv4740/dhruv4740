@@ -20,47 +20,49 @@ I am a B.Tech IT student at KJ Somaiya College of Engineering with a strong focu
 
 **Other Tools**
 - Git & GitHub
-- Postman
-- Figma
 - ESP32 (IoT)
 
 ---
 
 ## 🚀 Featured Projects
 
+- **CrisisWatch**  
+  Fact-checking web platform built during MumbaiHacks to verify trending news and misinformation.  
+  Frontend hosted on Vercel, backend deployed on Render.
+
 - **Eco Water System**  
-  IoT-based smart irrigation system using ESP32 with live sensor monitoring and mobile app integration.
+  IoT-based smart irrigation system using ESP32 with live sensor monitoring, automated pump control, and mobile app integration.
 
 - **Financial Fraud Detection System**  
-  Hackathon-winning data science project for early fraud prediction in small businesses.
+  Hackathon-winning machine learning project for early fraud detection in small businesses using transaction pattern analysis.
 
-- **Full Stack Web Applications**  
-  Multiple web apps built using MERN stack with authentication, APIs, and dashboards.
+- **Period Tracker**  
+  Smart menstrual cycle tracking web application with predictions, history, and analytics. Currently under active development.
 
 ---
 
 ## 🏆 Achievements
 
 - 🥇 Winner – Innovathon 2025 (Data Science Track)  
-- 🎥 Video Editing & Creation Intern – NextGen Solutions  
-- 🤖 Tech Team Member – Robotics & Automation Society (RAS KJSCE)  
-- 🎓 Intern – Quizitt (AI-based EdTech Startup)
+- 🥇 Winner - REALMS 2025 (AR Tourism Track)
 
 ---
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dhruv4740&show_icons=true&theme=radical&hide_border=true)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=dhruv4740&show_icons=true&theme=radical&hide_border=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=dhruv4740&theme=radical&hide_border=true)
+
+
 
 ---
 
 ## 📫 Connect With Me
 
 - 📍 Thane, Maharashtra, India  
-- 💼 LinkedIn: https://www.linkedin.com  
-- 📧 Email: your-email@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/dhruv4740
+- 📧 Email: dhruvkothari13062006@gmail.com
 
 ---
 
