@@ -48,11 +48,12 @@ I am a B.Tech IT student at KJ Somaiya College of Engineering with a strong focu
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Activity
 
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=dhruv4740&show_icons=true&theme=radical&hide_border=true)
+- Total Contributions: 216+  
+- Active Since: March 2024  
+- Current Status: Actively building and committing
 
-![GitHub Streak](https://streak-stats.demolab.com?user=dhruv4740&theme=radical&hide_border=true)
 
 
 
