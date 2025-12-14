@@ -30,8 +30,8 @@ I am a B.Tech IT student at KJ Somaiya College of Engineering with a strong focu
   Fact-checking web platform built during MumbaiHacks to verify trending news and misinformation.  
   Frontend hosted on Vercel, backend deployed on Render.
 
-- **Eco Water System**  
-  IoT-based smart irrigation system using ESP32 with live sensor monitoring, automated pump control, and mobile app integration.
+- **Period Tracker**  
+  Customisable personal period tracker with agentic ai for help and tracking.
 
 - **Financial Fraud Detection System**  
   Hackathon-winning machine learning project for early fraud detection in small businesses using transaction pattern analysis.
