@@ -22,7 +22,7 @@ Growth and AI engineer from Mumbai. B.Tech IT at KJ Somaiya College of Engineeri
 - **[3D Portfolio](https://github.com/dhruv4740/portfolio-room)**: an interactive 3D studio room whose monitor runs a small OS with live project demos; detects each visitor's GPU and scales resolution to hold 30 to 60 FPS on integrated graphics. Three.js, React 19, GLSL. [Live](https://dhruvkothari.pages.dev/)
 - **[Blackout](https://github.com/dhruv4740/blackout)**: keeps the screen technically on but fully black, so features that need the screen on (like OnePlus bypass charging) keep working while nobody can see your screen. Steps aside for calls and alarms. Kotlin, no internet permission.
 - **[Expense Tracker](https://github.com/dhruv4740/expense-tracker)**: offline Android app that builds a spending log from bank SMS and UPI notifications. React Native, Kotlin native modules, SQLite.
-- **DarkSentinel** (team, private): dark web traffic monitor. I built the LLM review layer that only sends uncertain predictions to an LLM, keeping inference cost bounded. Finalist, Secure AI Systems and Software Hackathon 2026 (IIT Madras x BITS Goa).
+- **DarkSentinel** (team, private): dark web traffic monitor. I built the LLM review layer that only sends uncertain predictions to an LLM, keeping inference cost bounded. Finalist, Secure AI Software and Systems Hackathon 2026 (IIT Madras x BITS Goa).
 
 Also built: F-Shield (XGBoost fraud detection, Innovathon 2025 winner), CrisisWatch (claim verification, MumbaiHacks).
 
@@ -32,4 +32,6 @@ Python, TypeScript, Kotlin, SQL · React, Next.js, Three.js, Node, Flask, FastAP
 
 ## Achievements
 
-Winner, Innovathon 2025 (F-Shield) · Winner, REALMS 2025 (AR tourism) · Finalist, Secure AI Systems and Software Hackathon 2026
+- Winner, Innovathon 2025 (F-Shield)
+- Winner, REALMS 2025 (AR tourism)
+- Finalist, Secure AI Software and Systems Hackathon 2026 (IIT Madras x BITS Goa)
